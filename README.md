@@ -58,10 +58,6 @@ uvicorn main:app --reload
 API Endpoint:
 POST /predict
 Make sure FastAPI server is running before using Streamlit.
----
-
-
-
 
 ---
 

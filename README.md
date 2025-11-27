@@ -36,8 +36,8 @@ cat-dog-classifier/
 ## Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/<YOUR_USERNAME>/cat-dog-classifier.git
-   cd cat-dog-classifier
+   git clone https://github.com/sonrierb/Dogs-vs-Cats-classifier.git
+   cd Dogs-vs-Cats-classifier
 
 ---
 
